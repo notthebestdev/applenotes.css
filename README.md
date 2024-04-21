@@ -8,6 +8,7 @@
 
 ![Github Created At](https://img.shields.io/github/created-at/notthebestdev/applenotes.css)
 ![GitHub last commit](https://img.shields.io/github/last-commit/notthebestdev/applenotes.css)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fnotthebestdev.github.io%2Fapplenotes.css)
 
 An inspired Apple Notes theme for your website.
 
