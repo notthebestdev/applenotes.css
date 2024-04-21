@@ -6,6 +6,8 @@
    <h1>applenotes.css</h1>
 </div>
 
+![Github Created At](https://img.shields.io/github/created-at/notthebestdev/applenotes.css)
+
 An inspired Apple Notes theme for your website.
 
 ## Installation
