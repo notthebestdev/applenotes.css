@@ -7,3 +7,6 @@
 </div>
 
 An inspired Apple Notes theme for your website.
+
+## Installation
+- First, simply paste this code into the `<head>`:
