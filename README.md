@@ -10,3 +10,6 @@ An inspired Apple Notes theme for your website.
 
 ## Installation
 - First, simply paste this code into your website's `<head>`:
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+```
