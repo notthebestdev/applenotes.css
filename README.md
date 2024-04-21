@@ -15,6 +15,10 @@ An inspired Apple Notes theme for your website.
 ## Installation
 - First, simply paste this code into your website's `<head>`:
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/notthebestdev/applenotes.css@main/applenotes.css">
+```
+- And then paste this code just before your website's `<body>`:
+```html
+<script src="https://cdn.jsdelivr.net/gh/notthebestdev/applenotes.css@main/applenotes.js"></script>
 ```
 - Done!
